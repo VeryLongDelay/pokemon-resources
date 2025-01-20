@@ -1,0 +1,460 @@
+[
+    {
+        "id": 16,
+        "name": "Pidgey",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 17,
+        "name": "Pidgeotto",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 18,
+        "name": "Pidgeot",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 56,
+        "name": "Mankey",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 57,
+        "name": "Primeape",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 144,
+        "name": "Articuno",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 145,
+        "name": "Zapdos",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 146,
+        "name": "Moltres",
+        "form": "Galarian",
+        "shadow_released": false
+    },
+    {
+        "id": 157,
+        "name": "Typhlosion",
+        "form": "Hisuian",
+        "shadow_released": false
+    },
+    {
+        "id": 383,
+        "name": "Groudon",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 384,
+        "name": "Rayquaza",
+        "form": "Normal",
+        "elite_cm": ["Hurricane", "Breaking Swipe", "Dragon Ascent"]
+    },
+    {
+        "id": 478,
+        "name": "Froslass",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 483,
+        "name": "Dialga",
+        "form": "Origin",
+        "elite_cm": ["Roar Of Time"]
+    },
+    {
+        "id": 484,
+        "name": "Palkia",
+        "form": "Origin",
+        "elite_cm": ["Spacial Rend"]
+    },
+    {
+        "id": 485,
+        "name": "Heatran",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 488,
+        "name": "Cresselia",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "form": "Normal",
+        "fm": ["Hidden Power", "Zen Headbutt", "Magical Leaf"]
+    },
+    {
+        "id": 492,
+        "name": "Shaymin",
+        "form": "Land",
+        "fm": ["Hidden Power", "Zen Headbutt", "Magical Leaf"]
+    },
+    {
+        "id": 524,
+        "name": "Roggenrola",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 525,
+        "name": "Boldore",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 526,
+        "name": "Gigalith",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 532,
+        "name": "Timburr",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 533,
+        "name": "Gurdurr",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 534,
+        "name": "Conkeldurr",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Galarian_standard",
+        "shadow_released": false
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Galarian_zen",
+        "shadow_released": false
+    },
+    {
+        "id": 555,
+        "name": "Darmanitan",
+        "form": "Zen",
+        "shadow_released": false
+    },
+    {
+        "id": 564,
+        "name": "Tirtouga",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 565,
+        "name": "Carracosta",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 566,
+        "name": "Archen",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 567,
+        "name": "Archeops",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 574,
+        "name": "Gothita",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 575,
+        "name": "Gothorita",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 576,
+        "name": "Gothitelle",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 577,
+        "name": "Solosis",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 578,
+        "name": "Duosion",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 579,
+        "name": "Reuniclus",
+        "form": "Normal",
+        "shadow_released": true
+    },
+    {
+        "id": 672,
+        "name": "Skiddo",
+        "form": "Normal",
+        "cm": ["Brick Break", "Rock Slide", "Seed Bomb"]
+    },
+    {
+        "id": 673,
+        "name": "Gogoat",
+        "form": "Normal",
+        "cm": ["Brick Break", "Rock Slide", "Leaf Blade", "Seed Bomb"]
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Normal",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_fifty_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Complete_ten_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Fifty_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 718,
+        "name": "Zygarde",
+        "form": "Ten_percent",
+        "shadow_released": false
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dawn_wings",
+        "elite_cm": ["Moongeist Beam"],
+        "released": true
+    },
+    {
+        "id": 800,
+        "name": "Necrozma",
+        "form": "Dusk_mane",
+        "elite_cm": ["Sunsteel Strike"],
+        "released": true
+    },
+    {
+        "id": 802,
+        "name": "Marshadow",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 804,
+        "name": "Naganadel",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 805,
+        "name": "Stakataka",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 806,
+        "name": "Blacephalon",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 810,
+        "name": "Grookey",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 811,
+        "name": "Thwackey",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 812,
+        "name": "Rillaboom",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 813,
+        "name": "Scorbunny",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 814,
+        "name": "Raboot",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 815,
+        "name": "Cinderace",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 816,
+        "name": "Sobble",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 817,
+        "name": "Drizzile",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 818,
+        "name": "Inteleon",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 856,
+        "name": "Hatenna",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 857,
+        "name": "Hattrem",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 858,
+        "name": "Hatterene",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 866,
+        "name": "Mr. Rime",
+        "form": "Normal",
+        "shadow_released": false
+    },
+    {
+        "id": 885,
+        "name": "Dreepy",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 886,
+        "name": "Drakloak",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 887,
+        "name": "Dragapult",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 924,
+        "name": "Tandemaus",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_four",
+        "released": true
+    },
+    {
+        "id": 925,
+        "name": "Maushold",
+        "form": "Family_of_three",
+        "released": true
+    },
+    {
+        "id": 960,
+        "name": "Wiglett",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 961,
+        "name": "Wugtrio",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 974,
+        "name": "Cetoddle",
+        "form": "Normal",
+        "released": true
+    },
+    {
+        "id": 975,
+        "name": "Cetitan",
+        "form": "Normal",
+        "released": true
+    }
+]
