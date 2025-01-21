@@ -1,0 +1,55 @@
+name: Update Graphics from Pokeminers
+
+on:
+  schedule:
+    - cron: '30 1 1,15 * *'
+  workflow_dispatch:
+
+jobs:
+
+  update_graphics:
+    name: Update Pogo Graphics
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: "Set up Python"
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: "pyproject.toml"
+
+      - name: Install dependencies
+        run: uv sync --all-extras --dev
+
+      - name: Update Pogo Graphics
+        run: uv run graphics/update_pogo_graphics.py
+
+      - name: Delete repo files
+        run: |
+          mv files ..
+          rm -r .github
+          rm -r .gitignore
+          rm -rf *
+          cp -a ../files/. .
+          rm -r ../files
+
+      - name: Commit
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git switch --orphan data
+          git add --all
+          git commit -m 'Graphics updated at $(date)'
+
+      - name: Push
+        uses: ad-m/github-push-action@v0.8.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: data
+          # force: true

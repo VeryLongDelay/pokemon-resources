@@ -1,6 +1,5 @@
 import copy
 import json
-import os
 import urllib.request
 
 import lxml.html
@@ -27,8 +26,8 @@ pogo_cm = []  # pogo charged moves object, will become json file
 
 def main():
     # gets user input
-    wants_manual_patch = input("do you want to apply the manual patch? [y/n] ")
-
+    # wants_manual_patch = input("do you want to apply the manual patch? [y/n] ")
+    wants_manual_patch = "y"
     # scrapes relevant unused lists from pokeminers.com into 'pogo_unused'
     print("scraping " + URL_UNUSED + "...")
     html = lxml.html.fromstring(requests.get(URL_UNUSED).content)
@@ -59,8 +58,6 @@ def main():
     json.dump(pogo_pkm, open(JSON_PKM_PATH, "w"), indent=4)
     json.dump(pogo_fm, open(JSON_FM_PATH, "w"), indent=4)
     json.dump(pogo_cm, open(JSON_CM_PATH, "w"), indent=4)
-
-    os.system("pause")
 
 
 def ScrapeList(html, xpath, name):
@@ -102,7 +99,9 @@ def AddPokemon(gm_obj):
         pkm_obj["elite_cm"] = CleanMoves(gm_obj_s["eliteCinematicMove"], False)
     pkm_obj["shadow"] = "shadow" in gm_obj_s
     if pkm_obj["shadow"]:
-        pkm_obj["shadow_released"] = (gm_obj["templateId"][14:] + "_SHADOW") not in pogo_unused["shadows"]
+        pkm_obj["shadow_released"] = (
+            gm_obj["templateId"][14:] + "_SHADOW"
+        ) not in pogo_unused["shadows"]
     else:
         pkm_obj["shadow_released"] = False
     mega_objs = []
@@ -233,11 +232,29 @@ def ManualPatch():
                 and pkm_obj["name"] == manual_obj["name"]
                 and pkm_obj["form"] == manual_obj["form"]
             ):
-                for key in ["fm", "cm", "elite_fm", "elite_cm", "shadow", "shadow_released", "released"]:
+                for key in [
+                    "fm",
+                    "cm",
+                    "elite_fm",
+                    "elite_cm",
+                    "shadow",
+                    "shadow_released",
+                    "released",
+                ]:
                     if key in manual_obj:
                         if key in pkm_obj and pkm_obj[key] == manual_obj[key]:
-                            name = pkm_obj["name"] + ("(" + pkm_obj["form"] + ")" if (pkm_obj["form"] != "Normal") else "")
-                            print(" " + name + "[" + key + "] -> manual change is redundant!")
+                            name = pkm_obj["name"] + (
+                                "(" + pkm_obj["form"] + ")"
+                                if (pkm_obj["form"] != "Normal")
+                                else ""
+                            )
+                            print(
+                                " "
+                                + name
+                                + "["
+                                + key
+                                + "] -> manual change is redundant!"
+                            )
                         else:
                             pkm_obj[key] = manual_obj[key]
                             num_changes += 1
