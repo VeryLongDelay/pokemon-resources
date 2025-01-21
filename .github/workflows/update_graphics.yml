@@ -1,8 +1,6 @@
 name: Update Graphics from Pokeminers
 
 on:
-  schedule:
-    - cron: '30 1 1,15 * *'
   workflow_dispatch:
 
 jobs:
