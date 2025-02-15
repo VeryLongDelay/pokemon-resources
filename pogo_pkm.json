@@ -2014,7 +2014,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_a",
         "types": [
             "Electric"
         ],
@@ -2039,7 +2039,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_a_02",
         "types": [
             "Electric"
         ],
@@ -2064,7 +2064,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_b",
         "types": [
             "Electric"
         ],
@@ -2089,7 +2089,7 @@
     {
         "id": 25,
         "name": "Pikachu",
-        "form": "Normal",
+        "form": "Gotour_2025_b_02",
         "types": [
             "Electric"
         ],
