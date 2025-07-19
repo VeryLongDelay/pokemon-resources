@@ -951,7 +951,8 @@
         },
         "fm": [
             "Infestation",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Sludge Bomb",
@@ -997,7 +998,8 @@
         },
         "fm": [
             "Infestation",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Sludge Bomb",
@@ -1409,7 +1411,8 @@
         "fm": [
             "Bite",
             "Acid",
-            "Dragon Tail"
+            "Dragon Tail",
+            "Poison Sting"
         ],
         "cm": [
             "Dark Pulse",
@@ -1436,7 +1439,8 @@
         "fm": [
             "Bite",
             "Acid",
-            "Dragon Tail"
+            "Dragon Tail",
+            "Poison Sting"
         ],
         "cm": [
             "Dark Pulse",
@@ -2909,7 +2913,8 @@
             "Thunder Punch",
             "Wild Charge",
             "Skull Bash",
-            "Trailblaze"
+            "Trailblaze",
+            "Surf"
         ],
         "elite_cm": [
             "Thunder"
@@ -2941,7 +2946,8 @@
             "Thunder Punch",
             "Wild Charge",
             "Grass Knot",
-            "Trailblaze"
+            "Trailblaze",
+            "Surf"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -2970,7 +2976,8 @@
             "Thunder Punch",
             "Wild Charge",
             "Skull Bash",
-            "Trailblaze"
+            "Trailblaze",
+            "Surf"
         ],
         "elite_cm": [
             "Thunder"
@@ -3272,7 +3279,8 @@
         },
         "fm": [
             "Poison Jab",
-            "Bite"
+            "Bite",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -3300,7 +3308,8 @@
         },
         "fm": [
             "Poison Jab",
-            "Bite"
+            "Bite",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -3431,7 +3440,8 @@
         "fm": [
             "Poison Jab",
             "Iron Tail",
-            "Double Kick"
+            "Double Kick",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -3463,7 +3473,8 @@
         "fm": [
             "Poison Jab",
             "Iron Tail",
-            "Double Kick"
+            "Double Kick",
+            "Poison Sting"
         ],
         "cm": [
             "Earthquake",
@@ -4446,7 +4457,8 @@
         },
         "fm": [
             "Scratch",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Night Slash",
@@ -5674,7 +5686,8 @@
         },
         "fm": [
             "Acid",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Hydro Pump",
@@ -8068,7 +8081,8 @@
         "cm": [
             "Hyper Beam",
             "Stomp",
-            "Power Whip"
+            "Power Whip",
+            "Wrap"
         ],
         "elite_cm": [
             "Body Slam"
@@ -10261,7 +10275,8 @@
         "cm": [
             "Futuresight",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -10350,7 +10365,8 @@
         "cm": [
             "Close Combat",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -10439,7 +10455,8 @@
         "cm": [
             "Payback",
             "Ancient Power",
-            "Brave Bird"
+            "Brave Bird",
+            "Fly"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -16080,7 +16097,8 @@
         "cm": [
             "Sky Attack",
             "Hydro Pump",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -16110,7 +16128,8 @@
         "cm": [
             "Sky Attack",
             "Hydro Pump",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -16140,7 +16159,8 @@
         "cm": [
             "Sky Attack",
             "Hydro Pump",
-            "Futuresight"
+            "Futuresight",
+            "Fly"
         ],
         "elite_cm": [
             "Aeroblast"
@@ -18564,7 +18584,8 @@
         },
         "fm": [
             "Tackle",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -18590,7 +18611,8 @@
         },
         "fm": [
             "Tackle",
-            "Metal Claw"
+            "Metal Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -18616,7 +18638,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Iron Tail"
+            "Iron Tail",
+            "Metal Sound"
         ],
         "cm": [
             "Body Slam",
@@ -18643,7 +18666,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Iron Tail"
+            "Iron Tail",
+            "Metal Sound"
         ],
         "cm": [
             "Body Slam",
@@ -18671,7 +18695,8 @@
         "fm": [
             "Dragon Tail",
             "Iron Tail",
-            "Smack Down"
+            "Smack Down",
+            "Metal Sound"
         ],
         "cm": [
             "Thunder",
@@ -18712,7 +18737,8 @@
         "fm": [
             "Dragon Tail",
             "Iron Tail",
-            "Smack Down"
+            "Smack Down",
+            "Metal Sound"
         ],
         "cm": [
             "Thunder",
@@ -20817,7 +20843,8 @@
         "cm": [
             "Surf",
             "Blizzard",
-            "Hyper Beam"
+            "Hyper Beam",
+            "Wrap"
         ],
         "shadow": true,
         "shadow_released": false,
@@ -21495,7 +21522,8 @@
         "cm": [
             "Aurora Beam",
             "Body Slam",
-            "Water Pulse"
+            "Water Pulse",
+            "Surf"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -21521,7 +21549,8 @@
         "cm": [
             "Aurora Beam",
             "Body Slam",
-            "Water Pulse"
+            "Water Pulse",
+            "Surf"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -21965,7 +21994,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Metal Claw"
+            "Metal Claw",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -21991,7 +22021,8 @@
         },
         "fm": [
             "Zen Headbutt",
-            "Metal Claw"
+            "Metal Claw",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -22017,7 +22048,8 @@
         },
         "fm": [
             "Bullet Punch",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -22046,7 +22078,8 @@
         },
         "fm": [
             "Bullet Punch",
-            "Zen Headbutt"
+            "Zen Headbutt",
+            "Fury Cutter"
         ],
         "cm": [
             "Psychic",
@@ -25480,7 +25513,8 @@
         "fm": [
             "Poison Jab",
             "Counter",
-            "Mud Shot"
+            "Mud Shot",
+            "Poison Sting"
         ],
         "cm": [
             "Dynamic Punch",
@@ -27121,6 +27155,9 @@
             "Giga Impact",
             "Focus Blast",
             "Thunder"
+        ],
+        "elite_cm": [
+            "Crush Grip"
         ],
         "shadow": true,
         "shadow_released": true,
@@ -29321,7 +29358,8 @@
         },
         "fm": [
             "Bug Bite",
-            "Poison Jab"
+            "Poison Jab",
+            "Poison Sting"
         ],
         "cm": [
             "Megahorn",
@@ -29410,6 +29448,59 @@
         "shadow": false,
         "shadow_released": false,
         "released": true
+    },
+    {
+        "id": 549,
+        "name": "Lilligant",
+        "form": "Normal",
+        "types": [
+            "Grass"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 214,
+            "baseDefense": 155
+        },
+        "fm": [
+            "Charm",
+            "Hidden Power",
+            "Magical Leaf"
+        ],
+        "cm": [
+            "Petal Blizzard",
+            "Hyper Beam",
+            "Solar Beam"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 549,
+        "name": "Lilligant",
+        "form": "Hisuian",
+        "types": [
+            "Grass",
+            "Fighting"
+        ],
+        "stats": {
+            "baseStamina": 172,
+            "baseAttack": 208,
+            "baseDefense": 159
+        },
+        "fm": [
+            "Magical Leaf",
+            "Bullet Seed"
+        ],
+        "cm": [
+            "Petal Blizzard",
+            "Close Combat",
+            "Solar Beam",
+            "Upper Hand"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
     },
     {
         "id": 549,
@@ -30285,6 +30376,112 @@
             "Aerial Ace",
             "Dark Pulse",
             "Night Shade"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 570,
+        "name": "Zorua",
+        "form": "Hisuian",
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 111,
+            "baseAttack": 162,
+            "baseDefense": 79
+        },
+        "fm": [
+            "Scratch",
+            "Snarl"
+        ],
+        "cm": [
+            "Foul Play",
+            "Shadow Ball",
+            "Dark Pulse",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 570,
+        "name": "Zorua",
+        "form": "Normal",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 120,
+            "baseAttack": 153,
+            "baseDefense": 78
+        },
+        "fm": [
+            "Scratch",
+            "Feint Attack"
+        ],
+        "cm": [
+            "Foul Play",
+            "Aerial Ace",
+            "Dark Pulse",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "form": "Normal",
+        "types": [
+            "Dark"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 250,
+            "baseDefense": 127
+        },
+        "fm": [
+            "Shadow Claw",
+            "Snarl"
+        ],
+        "cm": [
+            "Foul Play",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Night Shade"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 571,
+        "name": "Zoroark",
+        "form": "Hisuian",
+        "types": [
+            "Normal",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 146,
+            "baseAttack": 261,
+            "baseDefense": 128
+        },
+        "fm": [
+            "Shadow Claw",
+            "Snarl"
+        ],
+        "cm": [
+            "Foul Play",
+            "Sludge Bomb",
+            "Flamethrower",
+            "Shadow Ball"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -36474,10 +36671,14 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 135,
+            "baseDefense": 139
+        },
         "fm": [
-            "Tackle",
-            "Fury Cutter"
+            "Psycho Cut",
+            "Tackle"
         ],
         "cm": [
             "Iron Head",
@@ -36495,10 +36696,14 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 153,
+            "baseAttack": 188,
+            "baseDefense": 206
+        },
         "fm": [
             "Psycho Cut",
-            "Fury Cutter"
+            "Tackle"
         ],
         "cm": [
             "Iron Head",
@@ -36516,10 +36721,66 @@
             "Steel",
             "Ghost"
         ],
-        "stats": {},
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 97,
+            "baseDefense": 272
+        },
         "fm": [
             "Psycho Cut",
-            "Fury Cutter"
+            "Air Slash"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Blade",
+        "types": [
+            "Steel",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 272,
+            "baseDefense": 97
+        },
+        "fm": [
+            "Psycho Cut",
+            "Air Slash"
+        ],
+        "cm": [
+            "Flash Cannon",
+            "Gyro Ball",
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": false
+    },
+    {
+        "id": 681,
+        "name": "Aegislash",
+        "form": "Shield",
+        "types": [
+            "Steel",
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 155,
+            "baseAttack": 97,
+            "baseDefense": 272
+        },
+        "fm": [
+            "Psycho Cut",
+            "Air Slash"
         ],
         "cm": [
             "Flash Cannon",
@@ -40767,12 +41028,14 @@
         },
         "fm": [
             "Astonish",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Power Whip",
             "Shadow Ball",
-            "Heavy Slam"
+            "Heavy Slam",
+            "Wrap"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -40852,6 +41115,9 @@
             "Flamethrower",
             "Boomburst",
             "Brick Break"
+        ],
+        "elite_cm": [
+            "Clanging Scales"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -41071,7 +41337,8 @@
         },
         "fm": [
             "Confusion",
-            "Air Slash"
+            "Air Slash",
+            "Shadow Claw"
         ],
         "cm": [
             "Shadow Ball",
@@ -43264,7 +43531,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -43291,7 +43559,8 @@
         },
         "fm": [
             "Metal Claw",
-            "Shadow Claw"
+            "Shadow Claw",
+            "Metal Sound"
         ],
         "cm": [
             "Iron Head",
@@ -44422,7 +44691,7 @@
             "Poison Jab"
         ],
         "cm": [
-            "Cross Poison",
+            "Sludge Bomb",
             "Dragon Pulse",
             "Flamethrower"
         ],
@@ -44449,7 +44718,7 @@
             "Poison Jab"
         ],
         "cm": [
-            "Cross Poison",
+            "Sludge Bomb",
             "Dragon Pulse",
             "Flamethrower",
             "Hyper Beam"
@@ -44477,7 +44746,7 @@
             "Poison Jab"
         ],
         "cm": [
-            "Cross Poison",
+            "Sludge Bomb",
             "Dragon Pulse",
             "Flamethrower"
         ],
@@ -44645,6 +44914,9 @@
             "Thunder",
             "Zap Cannon"
         ],
+        "elite_cm": [
+            "Thunder Cage"
+        ],
         "shadow": false,
         "shadow_released": false,
         "class": "POKEMON_CLASS_LEGENDARY",
@@ -44670,6 +44942,12 @@
             "Outrage",
             "Dragon Pulse",
             "Breaking Swipe"
+        ],
+        "elite_fm": [
+            "Dragon Breath"
+        ],
+        "elite_cm": [
+            "Dragon Energy"
         ],
         "shadow": false,
         "shadow_released": false,
@@ -44881,7 +45159,8 @@
         },
         "fm": [
             "Quick Attack",
-            "Air Slash"
+            "Air Slash",
+            "Fury Cutter"
         ],
         "cm": [
             "X Scissor",
@@ -45210,7 +45489,8 @@
         },
         "fm": [
             "Incinerate",
-            "Bite"
+            "Bite",
+            "Hex"
         ],
         "cm": [
             "Flamethrower",
@@ -45521,7 +45801,8 @@
         },
         "fm": [
             "Spark",
-            "Charge Beam"
+            "Charge Beam",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -45547,7 +45828,8 @@
         },
         "fm": [
             "Spark",
-            "Charge Beam"
+            "Charge Beam",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -45575,7 +45857,8 @@
         "fm": [
             "Spark",
             "Charge Beam",
-            "Low Kick"
+            "Low Kick",
+            "Thunder Shock"
         ],
         "cm": [
             "Thunderbolt",
@@ -46881,7 +47164,8 @@
         },
         "fm": [
             "Lick",
-            "Poison Jab"
+            "Poison Jab",
+            "Metal Sound"
         ],
         "cm": [
             "Acid Spray",
@@ -46907,7 +47191,8 @@
         },
         "fm": [
             "Lick",
-            "Poison Jab"
+            "Poison Jab",
+            "Metal Sound"
         ],
         "cm": [
             "Acid Spray",
@@ -47889,6 +48174,50 @@
         "released": true
     },
     {
+        "id": 999,
+        "name": "Gimmighoul",
+        "form": "Normal",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 140,
+            "baseDefense": 76
+        },
+        "fm": [
+            "Astonish"
+        ],
+        "cm": [
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
+        "id": 999,
+        "name": "Gimmighoul",
+        "form": "Normal",
+        "types": [
+            "Ghost"
+        ],
+        "stats": {
+            "baseStamina": 128,
+            "baseAttack": 140,
+            "baseDefense": 76
+        },
+        "fm": [
+            "Astonish"
+        ],
+        "cm": [
+            "Shadow Ball"
+        ],
+        "shadow": false,
+        "shadow_released": false,
+        "released": true
+    },
+    {
         "id": 1000,
         "name": "Gholdengo",
         "form": "Normal",
@@ -47908,7 +48237,8 @@
         "cm": [
             "Shadow Ball",
             "Dazzling Gleam",
-            "Focus Blast"
+            "Focus Blast",
+            "Power Gem"
         ],
         "shadow": false,
         "shadow_released": false,
